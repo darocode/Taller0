@@ -213,7 +213,7 @@ nav{
 .carrul h5{
       display: flex;
       justify-content: flex-end;
-      width: 60%;
+      width: 50%;
       height: 65%;
 
 }#opi{
@@ -223,4 +223,17 @@ nav{
       width: 25%;
       height: 20%;
       
+}#card-user{
+      margin-top: -3%;
+      margin-bottom: 3%;
+      height: 100%;
+      width: 23em;
+      background: linear-gradient(49.54deg, #337AB7 6%, #0B3860 90.34%);
+}.head img{
+        padding: 2%;
+}.estrellas{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 3%;
 }
